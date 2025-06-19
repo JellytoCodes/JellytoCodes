@@ -1,3 +1,5 @@
+# JellytoCodes
+
 <p align="center">
   <!-- 일반 활동·커밋·PR 수 등 -->
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
