@@ -32,8 +32,8 @@
 <!-- ────────────── GitHub 통계 ────────────── -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=omni&card_width=300" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&theme=omni&card_width=200&layout=compact" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=omni&card_width=200" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&theme=omni&card_width=140&layout=compact" height="200"/>
 
 </div>
 
