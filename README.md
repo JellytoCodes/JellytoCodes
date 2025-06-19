@@ -27,7 +27,7 @@
 <p align="Center">
   
   ![JellytoCodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=omni)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&theme=omni)
   
 </p>
 
@@ -36,8 +36,7 @@
 
 # Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=Assignment_SaveMySelf)](https://github.com/anuraghazra/github-readme-stats)
-
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=Assignment_SaveMySelf&theme=discord_old_blurple)
 <br>
 <br>
 
