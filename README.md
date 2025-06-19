@@ -1,44 +1,40 @@
-<p align="Center">
+<!-- ────────────── 헤더 배너 ────────────── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20To%20JellytoHubs&fontSize=70&fontAlignY=45"/>
+</div>
+
+<br><br><br>
+
+<!-- ────────────── 학습 중 스택 ────────────── -->
+<div align="center">
+  <h3>I'm currently learning</h3>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20JellytoHubs&fontSize=64&fontAlignY=40)
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</div>
 
-</p>
+<br><br><br>
 
-<br>
-<br>
-
-<p align="Center">
-  **I'm currently learning**  
+<!-- ────────────── 대표 프로젝트 ────────────── -->
+<div align="center"> 
+  <h3>My Project</h3>
   
-  <br>
-  
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=Assignment_SaveMySelf&theme=discord_old_blurple&card_width=380"/>
+</div>
+
+<br><br><br><br><br><br>
+
+<!-- ────────────── GitHub 통계 ────────────── -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=omni&card_width=400" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&theme=omni&card_width=200&layout=compact" height="200"/>
+
+</div>
 
 <br>
-<br>
-
-<p align="Center">
-  
-  ![JellytoCodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=omni)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&theme=omni)
-  
-</p>
-
-<br>
-<br>
-
-# Project
-
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=Assignment_SaveMySelf&theme=discord_old_blurple)
-  
-<br>
-<br>
-
-## Contact Me
