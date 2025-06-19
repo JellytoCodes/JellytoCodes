@@ -1,16 +1,14 @@
 # JellytoCodes
 <!-- I'm currently learning -->
 **I'm currently learning**
-
-<p align="Left">
-  <!-- Unreal Engine -->
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <!-- Visual Studio 2022 -->
-  <img src="https://img.shields.io/badge/VS2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <!-- JetBrains Rider -->
-  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=FF0060" />
-  <!-- Visual Studio Code -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p align="center">
+- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+- ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 </p>
 
 <br>
