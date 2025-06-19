@@ -18,10 +18,33 @@
 
 <p align="Left">
   <!-- 일반 활동·커밋·PR 수 등 -->
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+  <!-- ──────────────── GitHub Stats ──────────────── -->
+<p align="center">
+  <!-- 커밋/스타/랭크 등 종합 통계 -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JellytoCodes
+         &show_icons=true           /* 아이콘 on  */
+         &include_all_commits=true  /* 깃허브 전체 커밋 집계 */
+         &count_private=true        /* 프라이빗 레포 기여 포함 */
+         &rank_icon=github          /* GitHub 로고 랭크 뱃지 */
+         &hide=prs                  /* PR 수는 숨김 */
+         &theme=tokyonight          /* 다크 테마 */
+         &cache_seconds=86400"      /* 24h 캐시 */
+    height="180"
+  />
+
+  <!-- 언어 사용 비율 -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes
+         &layout=compact
+         &langs_count=8
+         &theme=tokyonight
+         &card_width=320"
+    height="180"
+  />
+</p>
   <!-- 언어 사용 비율 -->
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&layout=compact&langs_count=8&theme=tokyonight" />
-  <!-- 연속 기여(스트릭) -->
 </p>
 
 <br>
