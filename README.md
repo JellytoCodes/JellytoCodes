@@ -24,7 +24,7 @@
 <div align="center"> 
   <h3>My Project</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=Assignment_SaveMySelf&theme=discord_old_blurple&card_width=380"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=Assignment_SaveMySelf&theme=discord_old_blurple&card_width=240"/>
 </div>
 
 <br><br><br><br><br><br>
@@ -32,8 +32,8 @@
 <!-- ────────────── GitHub 통계 ────────────── -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=omni&card_width=200" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&theme=omni&card_width=140&layout=compact" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=omni&card_width=300" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&theme=omni&card_width=200&layout=compact" height="180"/>
 
 </div>
 
