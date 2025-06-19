@@ -19,7 +19,6 @@
 <p align="Left">
   <!-- 일반 활동·커밋·PR 수 등 -->
   <!-- ──────────────── GitHub Stats ──────────────── -->
-<p align="center">
   <!-- 커밋/스타/랭크 등 종합 통계 -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=JellytoCodes
@@ -42,7 +41,6 @@
          &card_width=320"
     height="180"
   />
-</p>
   <!-- 언어 사용 비율 -->
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
