@@ -24,7 +24,7 @@
 <div align="center"> 
   <h3>My Project</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=DefenseGame_SaveMyself&theme=discord_old_blurple&card_width=240"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=DefenseGame_SaveMyself_Refactored&theme=discord_old_blurple&card_width=240"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=GameAbilitySystem_Aura&theme=discord_old_blurple&card_width=240"/>
 </div>
 
