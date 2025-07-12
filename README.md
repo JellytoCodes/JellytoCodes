@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20To%20JellytoHubs&fontSize=70&fontAlignY=45"/>
 </div>
 
-<br><br><br>
+<br>
 
 <!-- ────────────── 학습 중 스택 ────────────── -->
 <div align="center">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
-<br><br><br>
+<br>
 
 <!-- ────────────── 대표 프로젝트 ────────────── -->
 <div align="center"> 
