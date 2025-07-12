@@ -28,7 +28,7 @@
   
 </div>
 
-<br><br><br><br><br><br>
+<br><br>
 
 <div align="center">
   <h3>Study Project</h3>  
@@ -37,7 +37,7 @@
   
 </div>
 
-<br><br><br><br><br><br>
+<br><br>
 
 <!-- ────────────── GitHub 통계 ────────────── -->
 <div align="center">
