@@ -33,7 +33,8 @@
 <div align="center">
   <h3>Study Project</h3>  
   
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=GameAbilitySystem_Aura&theme=discord_old_blurple&card_width=240&cache_seconds=30"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=GAS_Aura_Udemy&theme=discord_old_blurple&card_width=240&cache_seconds=30"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=GAS_Warrior_Udemy&theme=discord_old_blurple&card_width=240&cache_seconds=30"/>
   
 </div>
 
