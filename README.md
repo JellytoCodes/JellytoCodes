@@ -22,7 +22,7 @@
 
 <!-- ────────────── 대표 프로젝트 ────────────── -->
 <div align="center"> 
-  <h3>My Project</h3>
+  <h3>Portfolio Projects</h3>
   
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=DefenseGame_SaveMyself_Refactored&theme=discord_old_blurple&card_width=240&cache_seconds=30"/>
   
@@ -31,7 +31,7 @@
 <br><br>
 
 <div align="center">
-  <h3>Study Project</h3>  
+  <h3>Learning Tracks</h3>  
   
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=GAS_Aura_Udemy&theme=discord_old_blurple&card_width=240&cache_seconds=30"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=GAS_Warrior_Udemy&theme=discord_old_blurple&card_width=240&cache_seconds=30"/>
