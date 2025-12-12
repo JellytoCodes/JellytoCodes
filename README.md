@@ -81,13 +81,6 @@
       alt="Learning_Multiplayer_Shooter"
     />
   </a>
-
-  <a href="https://github.com/JellytoCodes/Learning_Direct3D">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=JellytoCodes&repo=Learning_Direct3D&theme=discord_old_blurple&hide_border=true"
-      alt="Learning_Direct3D"
-    />
-  </a>
 </p>
 
 <br>
