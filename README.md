@@ -1,40 +1,21 @@
-<!-- ────────────── Header Banner ────────────── -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:6366f1&height=220&section=header&text=Never%20Stops!&fontSize=60&fontAlignY=40&fontColor=ffffff&animation=fadeIn"
-    alt="header"
-  />
+  <strong>UE5 / C++ 게임 클라이언트 개발자를 지향합니다.</strong>
 </p>
 
-<br>
+<p align="center">
+  <strong>실제로 플레이 가능한 게임을 만들고, 완성도 있는 프로젝트로 정리하는 것을 목표로 합니다.</strong>
+</p>
 
-<!-- ────────────── Tech & Learning Stack ────────────── -->
-<h3 align="center">Tech Stack & Currently Learning</h3>
+<br><br><br>
+
+<!-- ────────────── Tech Stack ────────────── -->
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <!-- Engine / Framework -->
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-
-  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blueprint-137CBD?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JellytoCodes&show_icons=true&theme=omni&hide_border=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JellytoCodes&layout=compact&theme=omni&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
-<br>
