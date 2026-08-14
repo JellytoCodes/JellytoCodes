@@ -19,18 +19,3 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<br><br><br>
-
-<!-- ────────────── Current Project ────────────── -->
-<h3 align="center">Current Project</h3>
-
-<p align="center">
-  <a href="https://github.com/JellytoCodes/Project_MuseumHeist">
-    <strong>Museum Heist</strong>
-  </a>
-</p>
-
-<p align="center">
-  UE5.8 / C++ 기반 협동 멀티플레이 잠입 게임을 개발하고 있습니다.
-</p>
